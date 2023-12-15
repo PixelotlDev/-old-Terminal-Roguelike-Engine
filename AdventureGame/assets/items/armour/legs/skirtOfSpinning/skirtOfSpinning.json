@@ -1,0 +1,14 @@
+﻿{
+  "name": "Skirt of Spin",
+  "type": "Armour",
+  "sprite": "λ",
+  "imageLocation": "armour/legs/skirtOfSpinning/skirtOfSpinning.txt",
+  "description": "\"Sylveon approved~\"",
+  "value": 10000,
+  "weight": 5,
+  "attack": 25,
+  "defence": 100,
+  "speed":  196,
+  "tags": [ "Wearable" ],
+  "wearableType": "Legs"
+}

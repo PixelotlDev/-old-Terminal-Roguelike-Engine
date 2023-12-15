@@ -1,0 +1,6 @@
+﻿armour:
+Ϙ = head armour
+Ϯ = body armour
+λ = leg armour
+„ = foot armour
+ʘ = shield

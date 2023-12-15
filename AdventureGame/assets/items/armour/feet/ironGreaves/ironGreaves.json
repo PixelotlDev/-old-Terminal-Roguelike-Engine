@@ -1,0 +1,12 @@
+﻿{
+   "name": "Iron Greaves",
+   "type": "Armour",
+   "sprite": "„",
+   "imageLocation": "armour/feet/ironGreaves/ironGreaves.txt",
+   "description": "\"These could really do with some padding\"",
+   "value": 20,
+   "weight": 4,
+   "defence": 4,
+   "tags": [ "Wearable" ],
+   "wearableType": "Feet"
+}

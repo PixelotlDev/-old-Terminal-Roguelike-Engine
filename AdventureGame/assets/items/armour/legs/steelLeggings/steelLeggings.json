@@ -1,0 +1,12 @@
+﻿{
+   "name": "Steel Leggings",
+   "type": "Armour",
+   "sprite": "λ",
+   "imageLocation": "armour/legs/steelLeggings/steelLeggings.txt",
+   "description": "\"Comes with kneepads, safe for rollerskating\"",
+   "value": 65,
+   "weight": 12,
+   "defence": 15,
+   "tags": [ "Wearable" ],
+   "wearableType": "Legs"
+}

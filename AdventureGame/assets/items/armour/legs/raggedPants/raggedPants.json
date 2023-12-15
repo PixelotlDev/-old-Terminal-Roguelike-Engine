@@ -1,0 +1,12 @@
+﻿{
+   "name": "Ragged Pants",
+   "type": "Armour",
+   "sprite": "λ",
+   "imageLocation": "armour/legs/raggedPants/raggedPants.txt",
+   "description": "\"They crumble when you touch them\"",
+   "value": 1,
+   "weight": 2,
+   "defence": 1,
+   "tags": [ "Wearable" ],
+   "wearableType": "Legs"
+}

@@ -1,0 +1,10 @@
+{
+   "name": "Smol Sword",
+   "type": "Weapon",
+   "sprite": "!",
+   "imageLocation": "weapons/smolSword/smolSword.txt",
+   "description": "\"It's more a toothpick than a sword\"",
+   "value": 10,
+   "weight": 4,
+   "damage": 5
+}

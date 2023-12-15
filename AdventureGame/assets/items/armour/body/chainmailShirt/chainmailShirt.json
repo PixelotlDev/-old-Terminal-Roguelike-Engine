@@ -1,0 +1,12 @@
+﻿{
+   "name": "Chainmail Shirt",
+   "type": "Armour",
+   "sprite": "Ϯ",
+   "imageLocation": "armour/body/chainmailShirt/chainmailShirt.txt",
+   "description": "\"Protects your chest, and is light to boot!\"",
+   "value": 30,
+   "weight": 7,
+   "defence": 14,
+   "tags": [ "Wearable" ],
+   "wearableType": "Body"
+}

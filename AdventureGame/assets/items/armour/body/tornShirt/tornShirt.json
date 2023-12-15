@@ -1,0 +1,12 @@
+﻿{
+  "name": "Torn Shirt",
+  "type": "Armour",
+  "sprite": "Ϯ",
+  "imageLocation": "armour/body/tornShirt/tornShirt.txt",
+  "description": "\"There's almost nothing left of it...\"",
+  "value": 3,
+  "weight": 2,
+  "defence": 1,
+  "tags": [ "Wearable" ],
+  "wearableType": "Body"
+}

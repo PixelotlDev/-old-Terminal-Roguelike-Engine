@@ -1,0 +1,11 @@
+{
+   "name": "Tall Sword",
+   "type": "Weapon",
+   "sprite": "T",
+   "imageLocation": "weapons/tallSword/tallSword.txt",
+   "description": "\"Try not to hit any chandeliers\"",
+   "value": 20,
+   "weight": 9,
+   "damage": 12,
+   "flags": [ "TwoHanded" ]
+}

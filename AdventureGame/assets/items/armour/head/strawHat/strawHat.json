@@ -1,0 +1,12 @@
+﻿{
+  "name": "Straw Hat",
+  "type": "Armour",
+  "sprite": "Ϙ",
+  "imageLocation": "armour/head/strawHat/strawHat.txt",
+  "description": "\"Fashionable, if almost entirely useless\"",
+  "value": 5,
+  "weight": 1,
+  "defence": 1,
+  "tags": [ "Wearable" ],
+  "wearableType": "Head"
+}

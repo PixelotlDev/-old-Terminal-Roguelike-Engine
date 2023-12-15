@@ -1,0 +1,12 @@
+﻿{
+   "name": "Steel Breastplate",
+   "type": "Armour",
+   "sprite": "Ϯ",
+   "imageLocation": "armour/body/steelBreastplate/steelBreastplate.txt",
+   "description": "\"Steel is heavy, but hard to infiltrate\"",
+   "value": 80,
+   "weight": 15,
+   "defence": 20,
+   "tags": [ "Wearable" ],
+   "wearableType": "Body"
+}

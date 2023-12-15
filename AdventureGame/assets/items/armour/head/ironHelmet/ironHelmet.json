@@ -1,0 +1,12 @@
+﻿{
+   "name": "Iron Helmet",
+   "type": "Armour",
+   "sprite": "Ϙ",
+   "imageLocation": "armour/head/ironHelmet/ironHelmet.txt",
+   "description": "\"Watch out for blunt weapons!\"",
+   "value": 30,
+   "weight": 6,
+   "defence": 7,
+   "tags": [ "Wearable" ],
+   "wearableType": "Head"
+}

@@ -1,0 +1,11 @@
+﻿{
+   "name": "Strength Potion",
+   "type": "Potion",
+   "sprite": "Ѳ",
+   "imageLocation": "potions/strengthPotion/strengthPotion.txt",
+   "description": "\"Warning: overuse may result in sick gains\"",
+   "value": 15,
+   "weight": 2,
+   "attack": 5,
+   "tags": [ "Throwable", "Consumable", "Fragile" ]
+}

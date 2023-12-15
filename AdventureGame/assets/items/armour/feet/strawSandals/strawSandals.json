@@ -1,0 +1,12 @@
+﻿{
+  "name": "Straw Sandals",
+  "type": "Armour",
+  "sprite": "„",
+  "imageLocation": "armour/feet/strawSandals/strawSandals.txt",
+  "description": "\"You'd be better off walking barefoot\"",
+  "value": 2,
+  "weight": 1,
+  "defence": 0,
+  "tags": [ "Wearable" ],
+  "wearableType": "Feet"
+}

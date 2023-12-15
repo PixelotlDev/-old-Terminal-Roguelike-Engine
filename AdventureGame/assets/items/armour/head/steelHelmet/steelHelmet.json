@@ -1,0 +1,12 @@
+﻿{
+   "name": "Steel Helmet",
+   "type": "Armour",
+   "sprite": "Ϙ",
+   "imageLocation": "armour/head/steelHelmet/steelHelmet.txt",
+   "description": "\"Steel helmet? No, pay for it\"",
+   "value": 50,
+   "weight": 9,
+   "defence": 10,
+   "tags": [ "Wearable" ],
+   "wearableType": "Head"
+}

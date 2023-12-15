@@ -1,0 +1,12 @@
+﻿{
+   "name": "Steel Greaves",
+   "type": "Armour",
+   "sprite": "„",
+   "imageLocation": "armour/feet/steelGreaves/steelGreaves.txt",
+   "description": "\"An OHS compliant steel-toe boot\"",
+   "value": 40,
+   "weight": 5,
+   "defence": 6,
+   "tags": [ "Wearable" ],
+   "wearableType": "Feet"
+}

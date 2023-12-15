@@ -1,0 +1,12 @@
+﻿{
+   "name": "Leather Shoes",
+   "type": "Armour",
+   "sprite": "„",
+   "imageLocation": "armour/feet/leatherShoes/leatherShoes.txt",
+   "description": "\"Fancy shoes for a fancy dungeoneer\"",
+   "value": 10,
+   "weight": 2,
+   "defence": 2,
+   "tags": [ "Wearable" ],
+   "wearableType": "Feet"
+}

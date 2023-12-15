@@ -1,0 +1,11 @@
+﻿{
+  "name": "Bread",
+  "type": "Food",
+  "sprite": "Θ",
+  "imageLocation": "food/bread/bread.txt",
+  "description": "\"Lets hope it isn't mouldy\"",
+  "value": 5,
+  "weight": 2,
+  "sustenance": 15,
+  "tags": [ "Consumable" ]
+}
